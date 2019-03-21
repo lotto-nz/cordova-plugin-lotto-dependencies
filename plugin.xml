@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-    id="my-cordova-plugin"
+    id="cordova-plugin-lotto-dependencies"
     version="1.0.0">
     <name>Lotto dependencies</name>
     <description></description>
