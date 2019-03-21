@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+    id="my-cordova-plugin"
+    version="1.0.0">
+    <name>Lotto dependencies</name>
+    <description></description>
+    <license>MIT</license>
+    <author>Chalrie Law</author>
+    <keywords></keywords>
+    <repo>https://github.com/driftyco/cordova-plugin-template.git</repo>
+    <issue>https://github.com/driftyco/cordova-plugin-template/issues</issue>
+
+    <!-- android 
+    <platform name="android">
+      <js-module src="www/plugin.js" name="plugin">
+        <runs/>
+
+        
+        <clobbers target="lottoDependencies" />
+      </js-module>
+      <config-file target="res/xml/config.xml" parent="/*">
+        <feature name="lottoDependencies">
+          <param name="android-package" value="co.nz.mylotto.lottoDependencies" />
+          <param name="onload" value="true" />
+        </feature>
+      </config-file>
+
+      <source-file src="src/android/co/nz/mylotto/lottoDependencies.java" target-dir="src/co/nz/mylotto/" />
+    </platform>-->
+
+    <!-- ios -->
+    <platform name="ios">
+        <!--<js-module src="www/plugin.js" name="plugin">
+            <runs/>
+            <clobbers target="lottoDependencies" />
+        </js-module>
+        <config-file target="config.xml" parent="/*">
+            <feature name="lottoDependencies">
+                <param name="ios-package" value="lottoDependencies" onload="true" />
+            </feature>
+        </config-file>
+
+        <header-file src="src/ios/lottoDependencies.h" />
+        <source-file src="src/ios/lottoDependencies.m" />-->
+        <source-file src="www/tagmanager/ios/dev/GTM-N84SK3L.json" target-dir="container" />
+
+    </platform>
+</plugin>

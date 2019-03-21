@@ -1,0 +1,12 @@
+{
+  "name": "cordova-plugin-lotto-dependencies",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-lotto-dependencies",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "description": "Copy any required resources into the Lotto project"
+}

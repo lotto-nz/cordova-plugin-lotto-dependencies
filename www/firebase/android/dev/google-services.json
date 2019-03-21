@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "793958133869",
+    "firebase_url": "https://lottonz-debug.firebaseio.com",
+    "project_id": "lottonz-debug",
+    "storage_bucket": "lottonz-debug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793958133869:android:93c55449c8dbe96d",
+        "android_client_info": {
+          "package_name": "co.nz.mylotto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793958133869-5hsaklteqgqqf41aouvuq5ttavi3roqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCezNgDJ5G-hEhRqRQbzVIicFO5sE60zwc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793958133869:android:8256a6a464fd3ac2",
+        "android_client_info": {
+          "package_name": "co.nz.mylotto.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793958133869-5hsaklteqgqqf41aouvuq5ttavi3roqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCezNgDJ5G-hEhRqRQbzVIicFO5sE60zwc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
